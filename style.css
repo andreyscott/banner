@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+img {
+  width: auto;
+  height: auto;
+  background-size: cover;
+  overflow-x: hidden;
+}
